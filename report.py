@@ -6,7 +6,7 @@ import pynetbox
 
 nb = pynetbox.api(
   'https://localhost',
-  token='3cd90773e3283637eee1103a5a97a3a5eebf9d74',
+  token='<TOKEN HERE>',
   ssl_verify=False
 )
 
